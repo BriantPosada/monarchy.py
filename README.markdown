@@ -1,7 +1,7 @@
 # Historia en Código: Linajes Reales
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ## Descripción
 
@@ -33,8 +33,8 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/BriantPosada/<nombre-repositorio>.git
-   cd <nombre-repositorio>
+   git clone https://github.com/BriantPosada/monarchy.py.git
+   cd monarchy.py
    ```
 
 2. **Requisitos**:
@@ -130,11 +130,8 @@ Ejemplo:
 3. Realiza los cambios y haz commit (`git commit -m "Añadir nueva funcionalidad"`).
 4. Envía un pull request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
 ## Autor
 
-[Briant Posada] - [Gmail](vladmirposada99@gmail.com)  
+Briant Posada - [Mail](vladmirposada99@gmail.com)  
 GitHub: [BriantPosada](https://github.com/BriantPosada)
