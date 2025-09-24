@@ -1,0 +1,266 @@
+{
+  "Guillermo I": {
+    "reinado": "1066-1087",
+    "casa": "Normandía",
+    "antecesor": "Eduardo el Confesor",
+    "sucesor": "Guillermo II"
+  },
+  "Guillermo II": {
+    "reinado": "1087-1100",
+    "casa": "Normandía",
+    "antecesor": "Guillermo I",
+    "sucesor": "Enrique I"
+  },
+  "Enrique I": {
+    "reinado": "1100-1135",
+    "casa": "Normandía",
+    "antecesor": "Guillermo II",
+    "sucesor": "Esteban"
+  },
+  "Esteban": {
+    "reinado": "1135-1154",
+    "casa": "Blois",
+    "antecesor": "Enrique I",
+    "sucesor": "Enrique II"
+  },
+  "Enrique II": {
+    "reinado": "1154-1189",
+    "casa": "Plantagenet",
+    "antecesor": "Esteban",
+    "sucesor": "Ricardo I"
+  },
+  "Ricardo I": {
+    "reinado": "1189-1199",
+    "casa": "Plantagenet",
+    "antecesor": "Enrique II",
+    "sucesor": "Juan"
+  },
+  "Juan": {
+    "reinado": "1199-1216",
+    "casa": "Plantagenet",
+    "antecesor": "Ricardo I",
+    "sucesor": "Enrique III"
+  },
+  "Enrique III": {
+    "reinado": "1216-1272",
+    "casa": "Plantagenet",
+    "antecesor": "Juan",
+    "sucesor": "Eduardo I"
+  },
+  "Eduardo I": {
+    "reinado": "1272-1307",
+    "casa": "Plantagenet",
+    "antecesor": "Enrique III",
+    "sucesor": "Eduardo II"
+  },
+  "Eduardo II": {
+    "reinado": "1307-1327",
+    "casa": "Plantagenet",
+    "antecesor": "Eduardo I",
+    "sucesor": "Eduardo III"
+  },
+  "Eduardo III": {
+    "reinado": "1327-1377",
+    "casa": "Plantagenet",
+    "antecesor": "Eduardo II",
+    "sucesor": "Ricardo II"
+  },
+  "Ricardo II": {
+    "reinado": "1377-1399",
+    "casa": "Plantagenet",
+    "antecesor": "Eduardo III",
+    "sucesor": "Enrique IV"
+  },
+  "Enrique IV": {
+    "reinado": "1399-1413",
+    "casa": "Lancaster",
+    "antecesor": "Ricardo II",
+    "sucesor": "Enrique V"
+  },
+  "Enrique V": {
+    "reinado": "1413-1422",
+    "casa": "Lancaster",
+    "antecesor": "Enrique IV",
+    "sucesor": "Enrique VI"
+  },
+  "Enrique VI": {
+    "reinado": "1422-1461, 1470-1471",
+    "casa": "Lancaster",
+    "antecesor": "Enrique V",
+    "sucesor": "Eduardo IV"
+  },
+  "Eduardo IV": {
+    "reinado": "1461-1470, 1471-1483",
+    "casa": "York",
+    "antecesor": "Enrique VI",
+    "sucesor": "Eduardo V"
+  },
+  "Eduardo V": {
+    "reinado": "1483",
+    "casa": "York",
+    "antecesor": "Eduardo IV",
+    "sucesor": "Ricardo III"
+  },
+  "Ricardo III": {
+    "reinado": "1483-1485",
+    "casa": "York",
+    "antecesor": "Eduardo V",
+    "sucesor": "Enrique VII"
+  },
+  "Enrique VII": {
+    "reinado": "1485-1509",
+    "casa": "Tudor",
+    "antecesor": "Ricardo III",
+    "sucesor": "Enrique VIII"
+  },
+  "Enrique VIII": {
+    "reinado": "1509-1547",
+    "casa": "Tudor",
+    "antecesor": "Enrique VII",
+    "sucesor": "Eduardo VI"
+  },
+  "Eduardo VI": {
+    "reinado": "1547-1553",
+    "casa": "Tudor",
+    "antecesor": "Enrique VIII",
+    "sucesor": "María I"
+  },
+  "María I": {
+    "reinado": "1553-1558",
+    "casa": "Tudor",
+    "antecesor": "Eduardo VI",
+    "sucesor": "Isabel I"
+  },
+  "Isabel I": {
+    "reinado": "1558-1603",
+    "casa": "Tudor",
+    "antecesor": "María I",
+    "sucesor": "Jacobo I"
+  },
+  "Jacobo I": {
+    "reinado": "1603-1625",
+    "casa": "Stuart",
+    "antecesor": "Isabel I",
+    "sucesor": "Carlos I"
+  },
+  "Carlos I": {
+    "reinado": "1625-1649",
+    "casa": "Stuart",
+    "antecesor": "Jacobo I",
+    "sucesor": "Interregno"
+  },
+  "Interregno": {
+    "reinado": "1649-1660",
+    "casa": "Mancomunidad (no monarquía)",
+    "antecesor": "Carlos I",
+    "sucesor": "Carlos II"
+  },
+  "Carlos II": {
+    "reinado": "1660-1685",
+    "casa": "Stuart",
+    "antecesor": "Interregno",
+    "sucesor": "Jacobo II"
+  },
+  "Jacobo II": {
+    "reinado": "1685-1688",
+    "casa": "Stuart",
+    "antecesor": "Carlos II",
+    "sucesor": "Interregno"
+  },
+  "Interregno": {
+    "reinado": "1688-1689",
+    "casa": "Sin monarca",
+    "antecesor": "Jacobo II",
+    "sucesor": "Guillermo III y María II"
+  },
+  "Guillermo III y María II": {
+    "reinado": "1689-1694",
+    "casa": "Stuart/Orange",
+    "antecesor": "Interregno",
+    "sucesor": "Guillermo III"
+  },
+  "Guillermo III": {
+    "reinado": "1694-1702",
+    "casa": "Orange",
+    "antecesor": "Guillermo III y María II",
+    "sucesor": "Ana"
+  },
+  "Ana": {
+    "reinado": "1702-1714",
+    "casa": "Stuart",
+    "antecesor": "Guillermo III",
+    "sucesor": "Jorge I"
+  },
+  "Jorge I": {
+    "reinado": "1714-1727",
+    "casa": "Hanover",
+    "antecesor": "Ana",
+    "sucesor": "Jorge II"
+  },
+  "Jorge II": {
+    "reinado": "1727-1760",
+    "casa": "Hanover",
+    "antecesor": "Jorge I",
+    "sucesor": "Jorge III"
+  },
+  "Jorge III": {
+    "reinado": "1760-1820",
+    "casa": "Hanover",
+    "antecesor": "Jorge II",
+    "sucesor": "Jorge IV"
+  },
+  "Jorge IV": {
+    "reinado": "1820-1830",
+    "casa": "Hanover",
+    "antecesor": "Jorge III",
+    "sucesor": "Guillermo IV"
+  },
+  "Guillermo IV": {
+    "reinado": "1830-1837",
+    "casa": "Hanover",
+    "antecesor": "Jorge IV",
+    "sucesor": "Victoria"
+  },
+  "Victoria": {
+    "reinado": "1837-1901",
+    "casa": "Hanover",
+    "antecesor": "Guillermo IV",
+    "sucesor": "Eduardo VII"
+  },
+  "Eduardo VII": {
+    "reinado": "1901-1910",
+    "casa": "Sajonia-Coburgo y Gotha",
+    "antecesor": "Victoria",
+    "sucesor": "Jorge V"
+  },
+  "Jorge V": {
+    "reinado": "1910-1936",
+    "casa": "Windsor",
+    "antecesor": "Eduardo VII",
+    "sucesor": "Eduardo VIII"
+  },
+  "Eduardo VIII": {
+    "reinado": "1936",
+    "casa": "Windsor",
+    "antecesor": "Jorge V",
+    "sucesor": "Jorge VI"
+  },
+  "Jorge VI": {
+    "reinado": "1936-1952",
+    "casa": "Windsor",
+    "antecesor": "Eduardo VIII",
+    "sucesor": "Isabel II"
+  },
+  "Isabel II": {
+    "reinado": "1952-2022",
+    "casa": "Windsor",
+    "antecesor": "Jorge VI",
+    "sucesor": "Carlos III"
+  },
+  "Carlos III": {
+    "reinado": "2022-presente",
+    "casa": "Windsor",
+    "antecesor": "Isabel II",
+    "sucesor": "-"
+  }
+}
