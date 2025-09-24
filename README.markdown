@@ -33,7 +33,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/<tu-usuario>/<nombre-repositorio>.git
+   git clone https://github.com/BriantPosada/<nombre-repositorio>.git
    cd <nombre-repositorio>
    ```
 
@@ -136,5 +136,5 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
 ## Autor
 
-[Tu Nombre] - [tu-correo@example.com](mailto:tu-correo@example.com)  
-GitHub: [tu-usuario](https://github.com/tu-usuario)
+[Briant Posada] - [Gmail](vladmirposada99@gmail.com)  
+GitHub: [BriantPosada](https://github.com/BriantPosada)
